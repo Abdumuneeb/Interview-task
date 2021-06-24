@@ -1,0 +1,33 @@
+.main_heading{
+    font-family: TTNorms-Medium,sans-serif;
+    font-size: 16px;
+    color: #006BB3;
+}
+.nav-link{
+    width: 50px;
+}
+.txt{
+    width: 500px !important;
+    margin-left: 8px !important;
+    margin-top: 10px !important;
+}
+.txt-field{
+    width: 100% !important;
+    margin-left: 8px !important;
+    margin-top: 10px !important;
+
+}
+.txt-field1{
+    width: 100% !important;
+    margin-left: 8px !important;
+    margin-top: 10px !important;
+    height: 10vh !important;
+
+}
+.txt-dis{
+    width: 100% !important;
+    margin-left: 8px !important;
+    margin-top: 10px !important;
+    height: 100px !important;
+
+}
